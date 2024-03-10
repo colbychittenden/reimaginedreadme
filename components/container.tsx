@@ -275,13 +275,7 @@ export const container = (
 					>
 						<g className="item" transform="translate(25, 15)">
 							<text className="contribution-stats remarks" x="0" y="0">
-								Do you like how this widget looks?{' '}
-								<a
-									href="https://github.com/PressJump/reimaginedreadme"
-									className="link"
-								>
-									Get it for yourself.
-								</a>
+
 							</text>
 						</g>
 					</svg>
